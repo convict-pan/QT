@@ -80,10 +80,10 @@
 
         2. 居中，仅指定宽度（高度按比例缩放），代码如下  
          ```md
-         <div align="center"> <img src="../photo/girl.jpg" width = 400 /> </div>
+         <div align="center"> <img src="../photo/zhao.jpg" width = 400 /> </div>
          ``` 
 
-         <div align="center"> <img src="../photo/girl.jpg" width = 400 /> </div>
+         <div align="center"> <img src="../photo/zhao.jpg" width = 400 /> </div>
         
         3. 居中，指定相对宽度（原图的百分比），代码如下：
 
@@ -91,7 +91,7 @@
          <div align=center> <img src="图片地址" width = 80%/> </div>
          ```
 
-         <div align=center> <img src="../photo/girl.jpg" width = 40%/> </div>
+         <div align=center> <img src="../photo/zhao.jpg" width = 40%/> </div>
 
 
 
