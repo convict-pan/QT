@@ -171,7 +171,7 @@ size 字体大小 数字越大，字体越大 3差不多是正常字体
 
 <font face="宋体" color=red size=6> 文本 </font>
 
-<div align =center><font face="宋体" color=red size=14> 文本 </font> </div>
+<div align =center><font face="黑体" color=red size=14> 文本 </font> </div>
 
 
 
