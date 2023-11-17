@@ -57,7 +57,7 @@
     <br>
 
     在这里我插入她的图片
-    ![girl](photograph/girl.jpg)  
+    ![girl](../photo/girl.jpg)  
 
  <br>
  <br>
@@ -76,14 +76,14 @@
          <div align="center"> <img src="photograph/girl.jpg" alt="girl" width="200" height="200"> </div>
          ```
 
-         <div align="center"> <img src="photograph/girl.jpg" alt="girl" width="200" height="200"> </div>
+         <div align="center"> <img src="../photo/girl.jpg" alt="girl" width="200" height="200"> </div>
 
         2. 居中，仅指定宽度（高度按比例缩放），代码如下  
          ```md
-         <div align="center"> <img src="photograph/girl.jpg" width = 400 /> </div>
+         <div align="center"> <img src="../photo/girl.jpg" width = 400 /> </div>
          ``` 
 
-         <div align="center"> <img src="photograph/girl.jpg" width = 400 /> </div>
+         <div align="center"> <img src="../photo/girl.jpg" width = 400 /> </div>
         
         3. 居中，指定相对宽度（原图的百分比），代码如下：
 
@@ -91,7 +91,7 @@
          <div align=center> <img src="图片地址" width = 80%/> </div>
          ```
 
-         <div align=center> <img src="photograph/girl.jpg" width = 40%/> </div>
+         <div align=center> <img src="../photo/girl.jpg" width = 40%/> </div>
 
 
 
